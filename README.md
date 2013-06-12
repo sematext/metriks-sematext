@@ -1,4 +1,4 @@
-# metriks-sematext
+# metriks-sematext[![Build Status](https://travis-ci.org/sematext/metriks-sematext.png?branch=master)](https://travis-ci.org/sematext/metriks-sematext)
 
 [Metriks](https://github.com/eric/metriks) Reporter that uses [sematext-metrics](http://github.com/sematext/sematext-metrics-gem) gem to send metrics to [SPM](http://sematext.com/spm/index.html) as [Custom Metrics](https://sematext.atlassian.net/wiki/display/PUBSPM/Custom+Metrics).
 
